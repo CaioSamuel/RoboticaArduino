@@ -10,7 +10,7 @@
 // BRANCO = 1
 // PRETO = 0
 // BRANCO > 70
-// PRETO >= 70
+// PRETO <= 70
 //CASO 1: Esq: 1; Dir: 1
 //CASO 2: Esq: 1; Dir: 0
 //CASO 3: Esq: 0; Dir: 1
